@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+env/
+
+# Build and packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Testing and tooling
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment and local configuration
+.env
+.env.*
+!.env.example
+
+# Editors and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Project data and generated outputs
+outputs/
+artifacts/
+cache/
+
+.env
+*.pem
+*.key
+credentials.json
+service-account.json
+local.properties
+**/data/raw/**
+**/.ipynb_checkpoints/**
+__pycache__/
+
+# Generated, local, and secret material
+*.p12
+*.pfx
+service-account*.json
+google-services.json
+*.class
+node_modules/
