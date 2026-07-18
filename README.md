@@ -1,10 +1,6 @@
 # Computer Vision
 
-<!-- employer-visual:start -->
-<p align="center">
-  <img src="docs/portfolio-overview.png" alt="Computer Vision project overview" width="100%">
-</p>
-<!-- employer-visual:end -->
+
 
 
 Computer-vision notebooks covering segmentation, panorama stitching, 3D reconstruction, and stereo depth.
